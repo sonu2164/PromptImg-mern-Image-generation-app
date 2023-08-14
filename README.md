@@ -1,1 +1,1 @@
-Genius-Image generation application
+PromptImg -Image generation application
